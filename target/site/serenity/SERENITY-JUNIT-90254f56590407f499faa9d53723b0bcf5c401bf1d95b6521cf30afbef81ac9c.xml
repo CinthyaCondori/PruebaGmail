@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Nodos_Claim_Center" skipped="0" tests="1" time="58.55" timestamp="2019-06-22 07:44:16"><testcase name="Claim  center  nodos"><failure message="Expected enabled element was not enabled&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'CPX-NK0KLK7Q6XR', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'CPX-NK0KLK7Q6XR', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown</failure><system-err>Expected enabled element was not enabled
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'CPX-NK0KLK7Q6XR', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown&#13;
+com.accenture.gmail.pages.Gmail.PantallaGmail(Gmail.java:13)&#13;
+com.accenture.gmail.stepss.StepsGmail.GGmail(StepsGmail.java:35)&#13;
+com.accenture.gmail.steps.definitions.StepDefGmail.se_visualiza_la_pantalla_de_gmail(StepDefGmail.java:37)&#13;
+✽.Se visualiza la pantalla de gmail(src/test/resources/feature/Gmail.feature:22)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,890 @@
+<html class=" js flexbox no-flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg no-smil svgclippaths" lang="es"><head>
+
+<script src="https://www.googletagmanager.com/gtm.js?id=GTM-TRMP25X" async=""></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript" async=""></script><script>(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<meta content="www.google.com/intl/es_ALL/drive/" property="og:url">
+<meta name="twitter:url" content="www.google.com/intl/es_ALL/drive/">
+<meta name="twitter:title" content="Google Drive: almacenamiento en la nube, copias de seguridad de fotos, documentos y mucho más">
+<meta name="twitter:image" content="https://www.google.com/drive/static/images/drive/logo-drive.png">
+<meta name="twitter:description" content="Accede a tus archivos desde cualquier lugar gracias al almacenamiento seguro en la nube y a la creación de copias de seguridad de tus fotos, vídeos o archivos con Google Drive.">
+<meta name="twitter:creator" content="google">
+
+<!-- Open Graph -->
+<meta content="Google Drive: almacenamiento en la nube, copias de seguridad de fotos, documentos y mucho más" property="og:title">
+<meta content="https://www.google.com/drive/static/images/drive/logo-drive.png" property="og:image">
+<meta content="Accede a tus archivos desde cualquier lugar gracias al almacenamiento seguro en la nube y a la creación de copias de seguridad de tus fotos, vídeos o archivos con Google Drive." property="og:description">
+<meta content="website" property="og:type">
+
+<!-- Doc Meta -->
+<title>Google Drive: almacenamiento en la nube, copias de seguridad de fotos, documentos y mucho más</title>
+<meta name="description" content="Accede a tus archivos desde cualquier lugar gracias al almacenamiento seguro en la nube y a la creación de copias de seguridad de tus fotos, vídeos o archivos con Google Drive.">
+
+<link href="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png" rel="prefetch">
+<link href="//www.gstatic.com/external_hosted/normalize/v8_0_x/normalize.min.css" rel="stylesheet">
+<link href="//www.google.com/css/maia.experimental.css" rel="stylesheet">
+<link href="//www.google.com/css/gweb/lightbox.css" rel="stylesheet">
+
+  <script src="//www.google.com/js/google.js"></script>
+
+  <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_cookiePathCopy', '/a/']);
+      _gaq.push(['_cookiePathCopy', '/apps/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+      _gaq.push(['_cookiePathCopy', '/work/apps/business/']);
+      _gaq.push(['_cookiePathCopy', '/intl/']);
+      _gaq.push(['_cookiePathCopy', '/intx/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+    new gweb.analytics.AutoTrack({profile: "UA-28613865-1"});
+  </script>
+
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet">
+
+<!-- External Scripts -->
+<script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script>
+
+<!-- Favicon -->
+<link href="/drive/static/images/drive/favicon.ico" rel="icon" type="image/png">
+
+<!-- Stylesheet -->
+<link href="/drive/static/dist/css/main.min.css" rel="stylesheet">      <link href="https://www.google.com/intl/es_ALL/drive/" rel="canonical">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TRMP25X');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body class="index nav-light hoverable" style="padding-top: 962px;">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRMP25X"
+    height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <span itemtype="http://schema.org/LocalBusiness" itemscope="">
+    <!-- Header -->
+      <header class="header" role="banner">
+        <div class="header-item with-site-logo">
+          <a class="site-logo site-logo-link" href="/intl/es_ALL/drive/" data-g-label="Drive logo" data-g-action="Header" data-g-event="Drive">
+            <div class="lockup lockup--light js-lockup" dir="ltr">
+              <span class="lockup-logo js-site-logo-image"></span>
+              <span class="lockup-text"></span>
+              <span class="lockup-brand">Drive</span>
+            </div>
+          </a>
+        </div>
+
+<nav class="nav-site" data-nav-name="mobile">
+  <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png" itemprop="image">
+  <ul>
+    <li>
+      <a class="meet" href="/intl/es_ALL/drive/" data-g-label="Descubre Drive" data-g-action="Header" data-g-event="Drive">Descubre Drive</a>
+    </li>
+    <li>
+      <a class="using-drive" href="/intl/es_ALL/drive/using-drive/" data-g-label="Cómo usar Drive" data-g-action="Header" data-g-event="Drive">Cómo usar Drive</a>
+    </li>
+    <li class="mobile-is-hidden device-is-hidden">
+      <a class="download" href="/intl/es_ALL/drive/download/" data-g-label="Descargar" data-g-action="Header" data-g-event="Drive">Descargar</a>
+    </li>
+    <li>
+      <a class="work" href="https://cloud.google.com/drive-enterprise/?hl=es&amp;utm_source=website&amp;utm_medium=referral&amp;utm_campaign=driveforwork&amp;utm_term=forwork&amp;utm_content=drive-enterprise" data-g-label="Para el trabajo" data-g-action="Header" data-g-event="Drive">Para el trabajo</a>
+    </li>
+    <li class="last-default">
+      <a class="help" href="//support.google.com/drive/answer/2424384?hl=es" data-g-label="Ayuda" data-g-action="Header" data-g-event="Drive">Ayuda</a>
+    </li>
+    <li class="mobile-is-hidden float-in">
+      <a class="go-to-drive get-started" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive&amp;urp=https%3A%2F%2Fwww.google.com%2F%2F" data-g-label="Ir a Google Drive" data-g-action="Header" data-g-event="Drive">Ir a Google Drive</a>
+    </li>
+    <li class="download-app mobile-is-visible crushed-is-visible">
+      <a class="download-mobile-android boxed-in" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=es" data-g-label="Descargar para Android" data-g-action="Header" data-g-event="Drive">Descargar para Android</a>
+      <a class="download-mobile-ios boxed-in" href="//itunes.apple.com/en/app/google-drive/id507874739" data-g-label="Descargar para iOS" data-g-action="Header" data-g-event="Drive">Descargar para iOS</a>
+      <a class="download-mobile boxed-in get-started" style="display: inline-block;" href="https://www.google.com/intl/es/drive/?urp=https%3A%2F%2Fwww.google.com%2F%2F" data-g-label="Iniciar sesión" data-g-action="Header" data-g-event="Drive">Iniciar sesión</a>
+    </li>
+  </ul>
+</nav>        <div class="mobile-nav-toggle js-mobilenav">
+          <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile"></div>
+          <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile"></div>
+        </div>
+      </header>
+    </span>
+    <!-- End Header -->
+
+<!-- Intro section with photo background -->
+<section class="section-intro section-panel-fullscreen js-fullscreen" style="height: 962px; opacity: 1;">
+  <div class="section-photo-fullscreen section-photo js-parallax-image js-responsive-image loaded" style='height: 1162px; background-image: url("https://www.google.com/drive/static/images/home/intro-1600.jpg");' data-src="/drive/static/images/home/intro.jpg" data-reverse-parallax="true" data-preserve-aspect-ratio="false" data-origin="0" data-known-dimensions="false" data-breakpoints="320,768,1024,1200,1600"></div>
+  <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" style="margin-top: -173px; opacity: 1;" data-reverse-parallax="true" data-origin="0" data-parallax-fade="true" data-parallax-speed="3">
+    <div class="one-whole">
+      <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png">
+      <h1 class="section-headline section-headline-large section-headline-white">
+        Todos tus archivos estés donde&nbsp;estés
+      </h1>
+      <a class="maia-button button-download mobile-is-hidden get-started go-to-drive" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive&amp;urp=https%3A%2F%2Fwww.google.com%2F%2F" data-g-label="Ir a Google Drive" data-g-action="Intro" data-g-event="Drive">Ir a Google Drive</a>
+      <div class="mobile-is-visible mobile-button-selector">
+        <a class="maia-button button-download download-mobile-android" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=es">Descargar Google Drive</a>
+        <a class="maia-button button-download download-mobile-ios" href="//itunes.apple.com/en/app/google-drive/id507874739">Descargar Google Drive</a>
+        <a class="maia-button button-download download-mobile get-started go-to-drive" style="display: inline-block;" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive&amp;urp=https%3A%2F%2Fwww.google.com%2F%2F">Ir a Google Drive</a>
+      </div>
+    </div>
+  </div>
+  <div class="arrow-hint">
+    <a class="gweb-smoothscroll-control" href="#start">
+      <div class="icon icon-arrow-hint animated-arrow-1"></div>
+      <div class="icon icon-arrow-hint animated-arrow-2"></div>
+    </a>
+  </div>
+</section>
+<!-- scrollable wrapper -->
+<div class="unfixed-wrapper" id="start" style="opacity: 1;"><div id="nav-tick" style="top: -68px;"></div>
+  <!-- File types -->
+  <section class="section-filetypes js-hinted-fullscreen" style="height: 447px;">
+    <div class="content">
+      <div class="column column-left with-example">
+        <img class="example" style="width: auto;" src="/drive/static/images/home/files.png">
+      </div>
+      <div class="column column-right with-copy">
+        <div class="copy text-left">
+          <h2 class="heading-headline">Guarda cualquier&nbsp;archivo</h2>
+          <p class="section-body allow-orphan">Guarda fotos, historias, diseños, dibujos, grabaciones o vídeos, entre otras cosas. Con una cuenta de Google, tus primeros 15&nbsp;GB de espacio de almacenamiento son gratuitos.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Parallaxer -->
+  <div class="photo-wrapper">
+    <div class="section-photo section-photo-pack js-parallax-image js-responsive-image loaded" style='transform: matrix(1, 0, 0, 1, 0, -301.688); background-image: url("https://www.google.com/drive/static/images/home/photo-1-2200.jpg");' data-src="/drive/static/images/home/photo-1.jpg" data-preserve-aspect-ratio="false" data-known-dimensions="false" data-breakpoints="320,768,1024,1200,1600,2200" data-parallax-speed="4"></div>
+  </div>
+  <!-- Files anywhere -->
+  <section class="section-filesanywhere js-hinted-fullscreen" style="height: 547px;">
+    <div class="content">
+      <div class="column column-right with-example">
+        <img class="example" alt="Files on Google Drive displayed on multiple devices" src="/drive/static/images/home/files-anywhere.jpg" data-video-class="example" data-video-name="videos/access">
+      </div>
+      <div class="column column-left with-copy">
+        <div class="copy text-left">
+          <h2 class="heading-headline">Ve tus archivos en cualquier&nbsp;lugar</h2>
+          <p class="section-body">Puedes acceder a tus archivos de Drive desde cualquier smartphone, tablet u ordenador. Así, vayas donde vayas, llevarás siempre tus archivos&nbsp;contigo.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Parallaxer -->
+  <div class="photo-wrapper">
+    <div class="section-photo section-photo-travel js-parallax-image js-responsive-image loaded" style='transform: matrix(1, 0, 0, 1, 0, -516.75); background-image: url("https://www.google.com/drive/static/images/home/photo-2-1600.jpg");' data-src="/drive/static/images/home/photo-2.jpg" data-preserve-aspect-ratio="false" data-known-dimensions="false" data-breakpoints="320,768,1024,1200,1600" data-parallax-speed="4"></div>
+  </div>
+  <!-- Share files -->
+  <section class="section-share js-hinted-fullscreen" style="height: 447px;">
+    <div class="content">
+      <div class="column column-full-width with-copy">
+        <div class="copy section-centered text-center">
+          <img class="static-example" alt="Share files on Drive with your friends" src="/drive/static/images/home/share.jpg" data-video-class="example" data-video-name="videos/share">
+          <h2 class="heading-headline">Comparte archivos y&nbsp;carpetas</h2>
+          <p class="section-body">Puedes invitar fácilmente a otros usuarios a ver todos los archivos que quieras además de descargarlos y trabajar en ellos, sin necesidad de enviar archivos adjuntos por correo&nbsp;electrónico.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Parallaxer -->
+  <div class="photo-wrapper">
+    <div class="section-photo section-photo-travel js-parallax-image js-responsive-image loaded" style='transform: matrix(1, 0, 0, 1, 0, -731.813); background-image: url("https://www.google.com/drive/static/images/home/photo-3-1600.jpg");' data-src="/drive/static/images/home/photo-3.jpg" data-preserve-aspect-ratio="false" data-known-dimensions="false" data-breakpoints="320,768,1024,1200,1600" data-parallax-speed="4"></div>
+  </div>
+  <!-- Download with photo background -->
+  <section class="section-download section-panel-fullscreen js-hinted-fullscreen" style="height: 600px;">
+    <div class="section-centered section-vertical-align js-vertical-align" style="margin-top: -153px;">
+      <div class="one-whole">
+        <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png">
+        <h1 class="section-headline section-headline-large section-headline-gray heading-headline">Empieza a usar Drive&nbsp;gratis</h1>
+        <a class="maia-button button-download mobile-is-hidden get-started go-to-drive" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive&amp;urp=https%3A%2F%2Fwww.google.com%2F%2F">Ir a Google Drive</a>
+        <div class="mobile-is-visible mobile-button-selector">
+          <a class="maia-button button-download download-mobile-android" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=es">Descargar Google Drive</a>
+          <a class="maia-button button-download download-mobile-ios" href="//itunes.apple.com/en/app/google-drive/id507874739">Descargar Google Drive</a>
+          <a class="maia-button button-download download-mobile get-started go-to-drive" style="display: inline-block;" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive&amp;urp=https%3A%2F%2Fwww.google.com%2F%2F">Ir a Google Drive</a>
+        </div>
+        <p class="mobile-is-hidden device-is-hidden">
+          <a class="text-link" href="https://drive.google.com/settings/storage">¿Necesitas más de 15&nbsp;GB? Cambia tu plan a Google&nbsp;One <span class="icon icon-arrow-right"></span></a>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+
+    <!-- Footer -->
+    <div class="signature-wrapper"><div id="maia-signature"></div></div>
+    <div class="maia-footer" id="maia-footer">
+
+<div id="maia-footer-local">
+  <div class="maia-aux">
+    <div class="maia-cols first">
+
+      <div class="maia-col-3 footer-top social">
+        Seguir:
+        <span class="follow">
+          <a href="//twitter.com/googledrive/"><img alt="YouTube" src="/drive/static/images/drive/footer_twitter.png" data-retina="16x16"></a>
+          <a href="//googledrive.blogspot.com/"><img alt="Blogger" src="/drive/static/images/drive/footer_blogger.jpg" data-retina="16x16"></a>
+        </span>
+      </div>
+    </div>
+
+    <div class="maia-cols">
+      <div class="footer-unit">
+        <h4>Acerca de Google&nbsp;Drive</h4>
+        <ul>
+          <li>
+            <a href="/intl/es_ALL/drive/">Descubre Google Drive</a>
+          </li>
+          <li>
+            <a href="/intl/es_ALL/drive/using-drive/">Cómo usar Drive</a>
+          </li>
+          <li>
+            <a href="//support.google.com/drive/answer/2424384?hl=es">Introducción a Google Drive</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-unit">
+        <h4>Planes de almacenamiento y&nbsp;precios</h4>
+        <ul>
+          <li>
+            <a href="https://drive.google.com/settings/storage">Obtener más espacio de almacenamiento</a>
+          </li>
+          <li>
+            <a href="https://support.google.com/drive/answer/2375123?hl=es">Preguntas frecuentes sobre precios</a>
+          </li>
+          <li>
+            <a href="https://support.google.com/drive/answer/6374270?hl=es&amp;visit_id=1-636639037243784804-940550932&amp;rd=1">Liberar espacio</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-unit">
+        <h4>Descargas</h4>
+        <ul>
+          <li>
+            <a href="https://www.google.com/intl/es_ALL/drive/download/">Drive para Mac/PC</a>
+          </li>
+          <li>
+            <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs">Drive para Android</a>
+          </li>
+          <li>
+            <a href="//itunes.apple.com/app/google-drive/id507874739">Drive para iOS</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-unit">
+        <h4>Asistencia&nbsp;técnica</h4>
+        <ul>
+          <li>
+            <a href="//support.google.com/drive/answer/2424384?hl=es">Centro de ayuda de Drive</a>
+          </li>
+          <li>
+            <a href="//productforums.google.com/forum/#!forum/drive">Foro de ayuda de Google Drive</a>
+          </li>
+          <li>
+            <a href="//support.google.com/drive/?hl=es#topic=14940&amp;contact=1">Contacto</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-unit">
+        <h4>Soluciones&nbsp;relacionadas</h4>
+        <ul>
+          <li>
+            <a href="/intl/es_ALL/docs/about/">Documentos de Google</a>
+          </li>
+          <li>
+            <a href="/intl/es_ALL/sheets/about/">Hojas de cálculo de Google</a>
+          </li>
+          <li>
+            <a href="/intl/es_ALL/slides/about/">Presentaciones de Google</a>
+          </li>
+          <li>
+            <a href="/intl/es_ALL/forms/about/">Formularios de Google</a>
+          </li>
+          <li>
+            <a href="https://cloud.google.com/drive-enterprise/?hl=es&amp;utm_source=website&amp;utm_medium=referral&amp;utm_campaign=driveforwork&amp;utm_term=forwork&amp;utm_content=drive-enterprise">Google Drive for Work</a>
+          </li>
+          <li>
+            <a href="//cloud.google.com/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=es">Google Cloud Platform</a>
+          </li>
+          <li>
+            <a href="/intl/es_ALL/edu/">Google Apps for Education</a>
+          </li>
+          <li>
+            <a href="//gsuite.google.com/industries/government/">Google Apps for Government</a>
+          </li>
+          <li>
+            <a href="/intl/es_ALL/services/">Soluciones de Google para empresas</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+        <div id="maia-footer-global">
+          <div class="maia-aux">
+            <div class="maia-locales">
+              <label><span>Cambiar idioma:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};">
+                    <option value="/intl/af_ALL/drive/">
+                      Afrikaans
+                    </option>
+                    <option value="/intl/ar_ALL/drive/">
+                      العربية
+                    </option>
+                    <option value="/intl/ar_bh/drive/">
+                      العربية (البحرين)
+                    </option>
+                    <option value="/intl/ar_dz/drive/">
+                      العربية (الجزائر)
+                    </option>
+                    <option value="/intl/ar_eg/drive/">
+                      العربية (مصر)
+                    </option>
+                    <option value="/intl/ar_jo/drive/">
+                      العربية (الأردن)
+                    </option>
+                    <option value="/intl/ar_kw/drive/">
+                      العربية (الكويت)
+                    </option>
+                    <option value="/intl/ar_lb/drive/">
+                      العربية (لبنان)
+                    </option>
+                    <option value="/intl/ar_ma/drive/">
+                      العربية (المغرب)
+                    </option>
+                    <option value="/intl/ar_om/drive/">
+                      العربية (عُمان)
+                    </option>
+                    <option value="/intl/ar_ps/drive/">
+                      العربية (الأراضي الفلسطينية)
+                    </option>
+                    <option value="/intl/ar_qa/drive/">
+                      العربية (قطر)
+                    </option>
+                    <option value="/intl/ar_sa/drive/">
+                      العربية (المملكة العربية السعودية)
+                    </option>
+                    <option value="/intl/ar_tn/drive/">
+                      العربية (تونس)
+                    </option>
+                    <option value="/intl/ar_ye/drive/">
+                      العربية (اليمن)
+                    </option>
+                    <option value="/intl/az_ALL/drive/">
+                      azərbaycan dili
+                    </option>
+                    <option value="/intl/bg_ALL/drive/">
+                      български
+                    </option>
+                    <option value="/intl/bn_ALL/drive/">
+                      বাংলা
+                    </option>
+                    <option value="/intl/ca_ALL/drive/">
+                      català
+                    </option>
+                    <option value="/intl/cs_ALL/drive/">
+                      čeština
+                    </option>
+                    <option value="/intl/da_ALL/drive/">
+                      dansk
+                    </option>
+                    <option value="/intl/da_fo/drive/">
+                      dansk (Færøerne)
+                    </option>
+                    <option value="/intl/da_gl/drive/">
+                      dansk (Grønland)
+                    </option>
+                    <option value="/intl/de_ALL/drive/">
+                      Deutsch
+                    </option>
+                    <option value="/intl/de_at_ALL/drive/">
+                      Deutsch (Österreich)
+                    </option>
+                    <option value="/intl/de_ch_ALL/drive/">
+                      Deutsch (Schweiz)
+                    </option>
+                    <option value="/intl/de_li_ALL/drive/">
+                      Deutsch (Liechtenstein)
+                    </option>
+                    <option value="/intl/de_lu_ALL/drive/">
+                      Deutsch (Luxemburg)
+                    </option>
+                    <option value="/intl/el_ALL/drive/">
+                      Ελληνικά
+                    </option>
+                    <option value="/intl/en_ag/drive/">
+                      English (Antigua &amp; Barbuda)
+                    </option>
+                    <option value="/intl/en_as/drive/">
+                      English (American Samoa)
+                    </option>
+                    <option value="/intl/en_au/drive/">
+                      English (Australia)
+                    </option>
+                    <option value="/intl/en_bb/drive/">
+                      English (Barbados)
+                    </option>
+                    <option value="/intl/en_bm/drive/">
+                      English (Bermuda)
+                    </option>
+                    <option value="/intl/en_bs/drive/">
+                      English (Bahamas)
+                    </option>
+                    <option value="/intl/en_bw/drive/">
+                      English (Botswana)
+                    </option>
+                    <option value="/intl/en_ca/drive/">
+                      English (Canada)
+                    </option>
+                    <option value="/intl/en_cy/drive/">
+                      English (Cyprus)
+                    </option>
+                    <option value="/intl/en_fj/drive/">
+                      English (Fiji)
+                    </option>
+                    <option value="/intl/en_fm/drive/">
+                      English (Micronesia)
+                    </option>
+                    <option value="/intl/en-GB_ALL/drive/">
+                      English (United Kingdom)
+                    </option>
+                    <option value="/intl/en_gh/drive/">
+                      English (Ghana)
+                    </option>
+                    <option value="/intl/en_in/drive/">
+                      English (India)
+                    </option>
+                    <option value="/intl/en_io/drive/">
+                      English (British Indian Ocean Territory)
+                    </option>
+                    <option value="/intl/en_jm/drive/">
+                      English (Jamaica)
+                    </option>
+                    <option value="/intl/en_ky/drive/">
+                      English (Cayman Islands)
+                    </option>
+                    <option value="/intl/en_mh/drive/">
+                      English (Marshall Islands)
+                    </option>
+                    <option value="/intl/en_mp/drive/">
+                      English (Northern Mariana Islands)
+                    </option>
+                    <option value="/intl/en_mu/drive/">
+                      English (Mauritius)
+                    </option>
+                    <option value="/intl/en_mv/drive/">
+                      English (Maldives)
+                    </option>
+                    <option value="/intl/en_na/drive/">
+                      English (Namibia)
+                    </option>
+                    <option value="/intl/en_ng/drive/">
+                      English (Nigeria)
+                    </option>
+                    <option value="/intl/en_nz/drive/">
+                      English (New Zealand)
+                    </option>
+                    <option value="/intl/en_pg/drive/">
+                      English (Papua New Guinea)
+                    </option>
+                    <option value="/intl/en_pw/drive/">
+                      English (Palau)
+                    </option>
+                    <option value="/intl/en_rw/drive/">
+                      English (Rwanda)
+                    </option>
+                    <option value="/intl/en_sc/drive/">
+                      English (Seychelles)
+                    </option>
+                    <option value="/intl/en_sg/drive/">
+                      English (Singapore)
+                    </option>
+                    <option value="/intl/en_sl/drive/">
+                      English (Sierra Leone)
+                    </option>
+                    <option value="/intl/en_to/drive/">
+                      English (Tonga)
+                    </option>
+                    <option value="/intl/en_tt/drive/">
+                      English (Trinidad &amp; Tobago)
+                    </option>
+                    <option value="/intl/en_ug/drive/">
+                      English (Uganda)
+                    </option>
+                    <option value="/drive/">
+                      English (United States)
+                    </option>
+                    <option value="/intl/en_vg/drive/">
+                      English (British Virgin Islands)
+                    </option>
+                    <option value="/intl/en_vi/drive/">
+                      English (U.S. Virgin Islands)
+                    </option>
+                    <option value="/intl/en_zm/drive/">
+                      English (Zambia)
+                    </option>
+                    <option value="/intl/en_zw/drive/">
+                      English (Zimbabwe)
+                    </option>
+                    <option value="/intl/es_ALL/drive/" selected="">
+                      español
+                    </option>
+                    <option value="/intl/es-419_ALL/drive/">
+                      español (Latinoamérica)
+                    </option>
+                    <option value="/intl/es-419_ar/drive/">
+                      español (Argentina)
+                    </option>
+                    <option value="/intl/es-419_bo/drive/">
+                      español (Bolivia)
+                    </option>
+                    <option value="/intl/es-419_bz/drive/">
+                      español (Belice)
+                    </option>
+                    <option value="/intl/es-419_cl/drive/">
+                      español (Chile)
+                    </option>
+                    <option value="/intl/es-419_co/drive/">
+                      español (Colombia)
+                    </option>
+                    <option value="/intl/es-419_cr/drive/">
+                      español (Costa Rica)
+                    </option>
+                    <option value="/intl/es-419_do/drive/">
+                      español (República Dominicana)
+                    </option>
+                    <option value="/intl/es-419_ec/drive/">
+                      español (Ecuador)
+                    </option>
+                    <option value="/intl/es-419_gt/drive/">
+                      español (Guatemala)
+                    </option>
+                    <option value="/intl/es-419_hn/drive/">
+                      español (Honduras)
+                    </option>
+                    <option value="/intl/es-419_mx/drive/">
+                      español (México)
+                    </option>
+                    <option value="/intl/es-419_ni/drive/">
+                      español (Nicaragua)
+                    </option>
+                    <option value="/intl/es-419_pa/drive/">
+                      español (Panamá)
+                    </option>
+                    <option value="/intl/es-419_pe/drive/">
+                      español (Perú)
+                    </option>
+                    <option value="/intl/es-419_pr/drive/">
+                      español (Puerto Rico)
+                    </option>
+                    <option value="/intl/es-419_py/drive/">
+                      español (Paraguay)
+                    </option>
+                    <option value="/intl/es-419_sv/drive/">
+                      español (El Salvador)
+                    </option>
+                    <option value="/intl/es-419_uy/drive/">
+                      español (Uruguay)
+                    </option>
+                    <option value="/intl/es-419_ve/drive/">
+                      español (Venezuela)
+                    </option>
+                    <option value="/intl/et_ALL/drive/">
+                      eesti
+                    </option>
+                    <option value="/intl/eu_ALL/drive/">
+                      euskara
+                    </option>
+                    <option value="/intl/fa_ALL/drive/">
+                      فارسی
+                    </option>
+                    <option value="/intl/fi_ALL/drive/">
+                      suomi
+                    </option>
+                    <option value="/intl/fil_ALL/drive/">
+                      Filipino
+                    </option>
+                    <option value="/intl/fr_ALL/drive/">
+                      français
+                    </option>
+                    <option value="/intl/fr_bf/drive/">
+                      français (Burkina Faso)
+                    </option>
+                    <option value="/intl/fr_bj/drive/">
+                      français (Bénin)
+                    </option>
+                    <option value="/intl/fr-CA_ALL/drive/">
+                      français (Canada)
+                    </option>
+                    <option value="/intl/fr_ci/drive/">
+                      français (Côte d’Ivoire)
+                    </option>
+                    <option value="/intl/fr_cm/drive/">
+                      français (Cameroun)
+                    </option>
+                    <option value="/intl/fr_ga/drive/">
+                      français (Gabon)
+                    </option>
+                    <option value="/intl/fr_gp/drive/">
+                      français (Guadeloupe)
+                    </option>
+                    <option value="/intl/fr_gq/drive/">
+                      français (Guinée équatoriale)
+                    </option>
+                    <option value="/intl/fr_gu/drive/">
+                      français (Guam)
+                    </option>
+                    <option value="/intl/fr_ht/drive/">
+                      français (Haïti)
+                    </option>
+                    <option value="/intl/fr_mc/drive/">
+                      français (Monaco)
+                    </option>
+                    <option value="/intl/fr_ml/drive/">
+                      français (Mali)
+                    </option>
+                    <option value="/intl/fr_mq/drive/">
+                      français (Martinique)
+                    </option>
+                    <option value="/intl/fr_ne/drive/">
+                      français (Niger)
+                    </option>
+                    <option value="/intl/fr_pf/drive/">
+                      français (Polynésie française)
+                    </option>
+                    <option value="/intl/fr_re/drive/">
+                      français (La Réunion)
+                    </option>
+                    <option value="/intl/fr_sn/drive/">
+                      français (Sénégal)
+                    </option>
+                    <option value="/intl/fr_tg/drive/">
+                      français (Togo)
+                    </option>
+                    <option value="/intl/fr_yt/drive/">
+                      français (Mayotte)
+                    </option>
+                    <option value="/intl/gl_ALL/drive/">
+                      galego
+                    </option>
+                    <option value="/intl/gu_ALL/drive/">
+                      ગુજરાતી
+                    </option>
+                    <option value="/intl/iw_ALL/drive/">
+                      עברית
+                    </option>
+                    <option value="/intl/hi_ALL/drive/">
+                      हिन्दी
+                    </option>
+                    <option value="/intl/hr_ALL/drive/">
+                      hrvatski
+                    </option>
+                    <option value="/intl/hu_ALL/drive/">
+                      magyar
+                    </option>
+                    <option value="/intl/hy_ALL/drive/">
+                      հայերեն
+                    </option>
+                    <option value="/intl/id_ALL/drive/">
+                      Indonesia
+                    </option>
+                    <option value="/intl/is_ALL/drive/">
+                      íslenska
+                    </option>
+                    <option value="/intl/it_ALL/drive/">
+                      italiano
+                    </option>
+                    <option value="/intl/it_sm/drive/">
+                      italiano (San Marino)
+                    </option>
+                    <option value="/intl/ja_ALL/drive/">
+                      日本語
+                    </option>
+                    <option value="/intl/ka_ALL/drive/">
+                      ქართული
+                    </option>
+                    <option value="/intl/km_ALL/drive/">
+                      ខ្មែរ
+                    </option>
+                    <option value="/intl/kn_ALL/drive/">
+                      ಕನ್ನಡ
+                    </option>
+                    <option value="/intl/ko_ALL/drive/">
+                      한국어
+                    </option>
+                    <option value="/intl/lo_ALL/drive/">
+                      ລາວ
+                    </option>
+                    <option value="/intl/lt_ALL/drive/">
+                      lietuvių
+                    </option>
+                    <option value="/intl/lv_ALL/drive/">
+                      latviešu
+                    </option>
+                    <option value="/intl/ml_ALL/drive/">
+                      മലയാളം
+                    </option>
+                    <option value="/intl/mn_ALL/drive/">
+                      монгол
+                    </option>
+                    <option value="/intl/mr_ALL/drive/">
+                      मराठी
+                    </option>
+                    <option value="/intl/ms_ALL/drive/">
+                      Bahasa Melayu
+                    </option>
+                    <option value="/intl/no_ALL/drive/">
+                      norsk bokmål
+                    </option>
+                    <option value="/intl/ne_ALL/drive/">
+                      नेपाली
+                    </option>
+                    <option value="/intl/nl_ALL/drive/">
+                      Nederlands
+                    </option>
+                    <option value="/intl/nl_aw/drive/">
+                      Nederlands (Aruba)
+                    </option>
+                    <option value="/intl/nl_be/drive/">
+                      Nederlands (België)
+                    </option>
+                    <option value="/intl/pa_ALL/drive/">
+                      ਪੰਜਾਬੀ
+                    </option>
+                    <option value="/intl/pl_ALL/drive/">
+                      polski
+                    </option>
+                    <option value="/intl/pt-PT_ao/drive/">
+                      português (Angola)
+                    </option>
+                    <option value="/intl/pt-BR_ALL/drive/">
+                      português (Brasil)
+                    </option>
+                    <option value="/intl/pt-PT_cv/drive/">
+                      português (Cabo Verde)
+                    </option>
+                    <option value="/intl/pt-PT_gi/drive/">
+                      português (Gibraltar)
+                    </option>
+                    <option value="/intl/pt-PT_gw/drive/">
+                      português (Guiné-Bissau)
+                    </option>
+                    <option value="/intl/pt-PT_mz/drive/">
+                      português (Moçambique)
+                    </option>
+                    <option value="/intl/pt-PT_ALL/drive/">
+                      português (Portugal)
+                    </option>
+                    <option value="/intl/ro_ALL/drive/">
+                      română
+                    </option>
+                    <option value="/intl/ro_md/drive/">
+                      română (Republica Moldova)
+                    </option>
+                    <option value="/intl/ru_ALL/drive/">
+                      русский
+                    </option>
+                    <option value="/intl/ru_tj/drive/">
+                      русский (Таджикистан)
+                    </option>
+                    <option value="/intl/si_ALL/drive/">
+                      සිංහල
+                    </option>
+                    <option value="/intl/sk_ALL/drive/">
+                      slovenčina
+                    </option>
+                    <option value="/intl/sl_ALL/drive/">
+                      slovenščina
+                    </option>
+                    <option value="/intl/sr_ALL/drive/">
+                      српски
+                    </option>
+                    <option value="/intl/sr_me/drive/">
+                      српски (Црна Гора)
+                    </option>
+                    <option value="/intl/sv_ALL/drive/">
+                      svenska
+                    </option>
+                    <option value="/intl/sw_ALL/drive/">
+                      Kiswahili
+                    </option>
+                    <option value="/intl/ta_ALL/drive/">
+                      தமிழ்
+                    </option>
+                    <option value="/intl/te_ALL/drive/">
+                      తెలుగు
+                    </option>
+                    <option value="/intl/th_ALL/drive/">
+                      ไทย
+                    </option>
+                    <option value="/intl/tr_ALL/drive/">
+                      Türkçe
+                    </option>
+                    <option value="/intl/uk_ALL/drive/">
+                      українська
+                    </option>
+                    <option value="/intl/ur_ALL/drive/">
+                      اردو
+                    </option>
+                    <option value="/intl/vi_ALL/drive/">
+                      Tiếng Việt
+                    </option>
+                    <option value="/intl/zh-CN_ALL/drive/">
+                      中文 (简体, 中国)
+                    </option>
+                    <option value="/intl/zh-HK_ALL/drive/">
+                      中文 (繁體字, 中華人民共和國香港特別行政區)
+                    </option>
+                    <option value="/intl/zh-TW_ALL/drive/">
+                      中文 (繁體, 台灣)
+                    </option>
+                    <option value="/intl/zu_ALL/drive/">
+                      isiZulu
+                    </option>
+                </select></label>
+            </div>
+            <ul>
+              <li>
+                <a href="//www.google.com">Google</a>
+              </li>
+              <li>
+                <a href="//www.google.com/about/">About Google</a>
+              </li>
+              <li>
+                <a href="//www.google.com/intl/es/policies/privacy/">Privacy</a>
+              </li>
+              <li>
+                <a href="https://www.google.com/intl/es_ALL/drive/terms-of-service/">Terms</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+
+
+    <!-- Scripts -->
+    <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script>
+    <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script>
+    <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script>
+      <script src="/drive/static/dist/js/drive-site.min.js?cb=1"></script>
+
+    <script>
+      var manageParams = new drive.QueryParamManager();
+    </script>
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script>
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+      src: 2542116,
+      type: 'gdrive',
+      cat: 'googl00'
+    });
+    var tracker = new gweb.analytics.DoubleTrack('floodlight', {
+      src: 2542116,
+      type: 'gdrive',
+      cat: 'googl000'
+    });
+    tracker.trackClass('go-to-drive');
+    var home = new drive.SetUp('home');
+  </script><iframe width="1" height="1" src="//2542116.fls.doubleclick.net/activityi;src=2542116;type=gdrive;cat=googl00;ord=4964646049959.266?" style="display: none;"></iframe>
+  
+<iframe width="1" height="1" src="//2542116.fls.doubleclick.net/activityi;src=2542116;cat=googl000;type=gdrive;ord=7093513854539.466?" style="display: none;"></iframe></body></html>
